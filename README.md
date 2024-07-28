@@ -20,5 +20,3 @@ Follow these instructions to set up and run the project locally.
 ### Prerequisites
 
 - A web browser (e.g., Chrome, Firefox, Safari)
-
-- 
